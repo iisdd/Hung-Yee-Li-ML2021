@@ -7,3 +7,4 @@ HW3 CNN Classification food11数据集 Data Augmentation<br/>
 HW4 Self Attention 语者辨识 voxceleb数据集<br/>
 HW5 Transformer Seq2Seq机器翻译 TED演讲中英文字幕 大模型+Semi Supervise Learning<br/>
 HW6 GAN Anime头像生成 Crypko二次元头像 DCGAN->WGAN<br/>
+HW7 BERT for QA Chinese Reading Comprehension 把输入的窗口调大,改stride让输入有overlap,限制输出长度,把dev集并入训练集训练<br/>
