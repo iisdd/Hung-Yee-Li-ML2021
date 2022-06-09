@@ -12,5 +12,5 @@ HW8 Anomaly Detection 不知名的人脸图像,女人为normal,男人为abnormal
 HW9 Explainable AI food11 答题回<br/>
 HW10 Adversarial Attack 用i-fgsm算法攻击CIFAR-10的pretrain model<br/>
 HW11 Domain Adversarial 在真实图片上训练,在涂鸦图片上测试 算法为DaNN,原理类似GAN,用一个feature extractor把两个domain的特征抽的越近越好(骗过Discriminator)<br/>
-HW12 RL月球登录,我的绝活,直接DDQN爆杀,注意调网络大小就好
-HW13 Model Compression 压缩一个food11上的pretrain的resnet18,参数<100,000 用到知识蒸馏,卷积分离,网络剪枝
+HW12 RL月球登录,我的绝活,直接DDQN爆杀,注意调网络大小就好<br/>
+HW13 Model Compression 压缩一个food11上的pretrain的resnet18,参数<100,000 用到知识蒸馏,卷积分离,网络剪枝<br/>
