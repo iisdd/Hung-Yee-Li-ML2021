@@ -14,5 +14,5 @@ HW10 Adversarial Attack 用i-fgsm算法攻击CIFAR-10的pretrain model<br/>
 HW11 Domain Adversarial 在真实图片上训练,在涂鸦图片上测试 算法为DaNN,原理类似GAN,用一个feature extractor把两个domain的特征抽的越近越好(骗过Discriminator)<br/>
 HW12 RL月球登录,我的绝活,直接DDQN爆杀,注意调网络大小就好<br/>
 HW13 Model Compression 压缩一个food11上的pretrain的resnet18,参数<100,000 用到知识蒸馏,卷积分离,网络剪枝<br/>
-HW14 Life Long Learning 在5个不同旋转角度的mnist上做LLL,整体思想就是在训练当前task时,在loss_fn上加上一项来限制当前网络参数与之前网络的差别
+HW14 Life Long Learning 在5个不同旋转角度的mnist上做LLL,整体思想就是在训练当前task时,在loss_fn上加上一项来限制当前网络参数与之前网络的差别<br/>
 HW15 Meta Learning(过boss baseline) 用MAML算法找一个内功深厚的武功奇才,可以快速收敛与不同的few shot learning的task
